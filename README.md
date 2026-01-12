@@ -1,6 +1,9 @@
 # AI Chatbot Project 🤖
 
-This is an AI chatbot project that I built using HTML, CSS, JavaScript ,API keys.
+This is an AI chatbot project that I built using **HTML, CSS, API key, and JavaScript**.
+
+## 🌐 Live Demo
+🔗 https://ripudaman04.github.io/gemini-chatbot-clone/
 
 ## Chatbot UI Features
 The ChatGPT-style UI includes:
